@@ -9,7 +9,7 @@
 
 # 广告规则
 
-首选
+国内纯ip，首选dns
 
      223.5.5.5
      119.29.29.29
@@ -26,15 +26,28 @@
      114.114.114.114	
      117.50.10.10
 
+备用国内外ip，dns
 
-国内
+     223.6.6.6
+     218.30.118.6
+     210.2.4.8
+     101.102.103.104
+     8.8.4.4
+     1.0.0.1
+     45.11.45.11
+     94.140.15.15
+     149.112.112.112
+     114.114.115.115
+     52.80.52.52
+
+国内加密，180，ip是百度除外
 
      https://doh.pub/dns-query
      https://dns.alidns.com/dns-query
      https://doh.360.cn
      180.76.76.76
 
-国外
+国外加密
 
      https://dns.google/dns-query
      https://dns.twnic.tw/dns-query
@@ -57,20 +70,6 @@
 AdGuard dns
 
      https://dns.adguard-dns.com/dns-query
-
-备用
-
-     223.6.6.6
-     218.30.118.6
-     210.2.4.8
-     101.102.103.104
-     8.8.4.4
-     1.0.0.1
-     45.11.45.11
-     94.140.15.15
-     149.112.112.112
-     114.114.115.115
-     52.80.52.52
 
 国内
 
@@ -157,6 +156,10 @@ EasyList-去除国际网页中大多数广告，包括不需要的框架、图�
 
      https://easylist-downloads.adblockplus.org/easylist.txt
 
+屏蔽网站的 cookies 相关的警告
+
+     https://www.i-dont-care-about-cookies.eu/abp/
+
 屏蔽美欧地区英文网站相关的广告
 
      https://winhelp2002.mvps.org/hosts.txt
@@ -165,8 +168,6 @@ EasyList-去除国际网页中大多数广告，包括不需要的框架、图�
 
      https://raw.githubusercontent.com/yous/YousList/master/hosts.txt
 
-屏蔽网站的 cookies 相关的警告
+ADH广告拦截过滤国外规则
 
-     https://www.i-dont-care-about-cookies.eu/abp/
-
-
+     https://raw.githubusercontent.com/BlueSkyXN/AdGuardHomeRules/master/skyrules.txt
