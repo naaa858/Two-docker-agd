@@ -3,7 +3,7 @@
 
 1文件夹找到 /mnt/mmcblk2p4/adg/confdir1，
 ![image](https://github.com/Namia-A/Two-docker-agd/assets/175184271/c275d575-1a96-4dd4-ab00-5e5840125875)
-上传AdGuardHome.yaml此为docker的上传路径博主本人只是把它当作了第二分dns用作拦截国外广告
+上传AdGuardHome.yaml到confdir1此为docker的上传路径博主本人只是把它当作了第二分dns用作拦截国外广告
 
 2你已经下载了agd并且在服务里面找到了agd你可以直接复制AdGuardHome-cn.yaml此文件里面的
 并且在adg手动复制粘贴就行，
