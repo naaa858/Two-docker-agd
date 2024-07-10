@@ -1,5 +1,5 @@
 # 双adg一键安装脚本docker版 by [Namia-A]
-# 基于你已经安装了docker版agd可以使用模板进行复制和上传
+# 基于你已经安装了docker版agd可以使用模板进行复制和上传，或者docker版自己配置
 
 1文件夹找到 /mnt/mmcblk2p4/adg/confdir1，
 ![image](https://github.com/Namia-A/Two-docker-agd/assets/175184271/c275d575-1a96-4dd4-ab00-5e5840125875)
