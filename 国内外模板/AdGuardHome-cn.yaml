@@ -127,18 +127,6 @@ filters:
     url: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
     name: DNS 拦截
     id: 1716654774
-  - enabled: true
-    url: https://cdn.jsdelivr.net/gh/neoFelhz/neohosts@gh-pages/basic/hosts.txt
-    name: neoHosts-屏蔽 JS Miner 挖矿、百度全家桶的全天候定位记录、各类统计服务
-    id: 1720248888
-  - enabled: true
-    url: https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
-    name: 屏蔽一些中国视频网站的广告
-    id: 1720248889
-  - enabled: true
-    url: https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt
-    name: 百度搜索结果内屏蔽百家号
-    id: 1720248890
 whitelist_filters:
   - enabled: true
     url: https://raw.githubusercontent.com/8680/GOODBYEADS/master/allow.txt
